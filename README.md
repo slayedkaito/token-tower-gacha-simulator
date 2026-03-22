@@ -1,6 +1,6 @@
 # 🖥️ Token Tower Gacha Simulator
 
-![UI Preview](https://via.placeholder.com/800x400.png?text=UI+Preview+Coming+Soon)
+![UI Preview](https://github.com/slayedkaito/token-tower-gacha-simulator/blob/main/Screenshot%20(1002).png?raw=true)
 
 A high-fidelity, interactive web simulator designed to deconstruct and demonstrate the predatory mathematics behind modern "Token Tower" gacha ecosystems. Wrapped in a clean, minimalist Glassmorphism UI, this project exposes how algorithms use *State-Dependent Probability* and psychological triggers to drain wallets.
 
