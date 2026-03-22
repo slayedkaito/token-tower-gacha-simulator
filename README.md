@@ -1,4 +1,4 @@
-# 🖥️ PC Build Gacha Simulator
+# 🖥️ Token Tower Gacha Simulator
 
 ![UI Preview](https://via.placeholder.com/800x400.png?text=UI+Preview+Coming+Soon)
 
