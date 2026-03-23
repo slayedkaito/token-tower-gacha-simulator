@@ -20,3 +20,6 @@ This project uses pure HTML, CSS, and Vanilla JavaScript. No build tools require
 1. Clone this repository:
    ```bash
    git clone [https://github.com/slayedkaito/token-tower-gacha-simulator.git](https://github.com/slayedkaito/token-tower-gacha-simulator.git)
+
+## If you want to try it
+visit this site to test the simulator: https://slayedkaito.github.io/token-tower-gacha-simulator
